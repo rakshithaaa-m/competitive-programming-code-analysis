@@ -32,14 +32,21 @@ python generate_samples.py
 Features:
 
 1)Dataset preview and exploration
+
 2)Analysis of code submission patterns
+
 3)Performance metrics across problems and participants
+
 4)Visualizations for easier interpretation
 
 Contributing:
 
 1)Fork the repository
+
 2)Create a new branch (git checkout -b feature-name)
+
 3)Commit your changes (git commit -m 'Add feature')
+
 4)Push to the branch (git push origin feature-name)
+
 5)Open a Pull Request
