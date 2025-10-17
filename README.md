@@ -1,7 +1,9 @@
 Introduction:
+
 This project focuses on analyzing code submissions from competitive programming contests. The main goal is to study patterns, performance metrics, and trends in participants’ code submissions. Insights from this analysis can help understand coding behavior, optimize strategies, and improve performance in competitive programming.
 
 Installation:
+
 1)Clone the repository:
 git clone <your-repo-url>
 cd <your-repo-folder>
@@ -14,6 +16,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 Usage:
+
 1)Open the Jupyter Notebook:
 jupyter notebook notebooks/Codeforces_Submission_Analysis.ipynb
 
@@ -27,12 +30,14 @@ Generate visualizations and statistics
 python generate_samples.py
 
 Features:
+
 1)Dataset preview and exploration
 2)Analysis of code submission patterns
 3)Performance metrics across problems and participants
 4)Visualizations for easier interpretation
 
 Contributing:
+
 1)Fork the repository
 2)Create a new branch (git checkout -b feature-name)
 3)Commit your changes (git commit -m 'Add feature')
